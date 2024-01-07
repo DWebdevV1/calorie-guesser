@@ -1,0 +1,18 @@
+{
+  "name": "calorie-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve-fe": "cd calorie-guesser-fe && npm run dev",
+    "serve-be": "cd ./calorie-guesser-be && nodemon ./index.js",
+    "serve-app": "npm-run-all -p serve-fe serve-be"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "npm-run-all": "^4.1.5"
+  }
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap');
+
+:root {
+    --bg-color: linear-gradient(to right bottom, #76e100, #00da8c, #00c8e5, #00adff, #0085fe, #5271ee, #735bda, #8941c2, #b43eb4, #d441a5, #eb4d96, #fb5f88);
+}
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

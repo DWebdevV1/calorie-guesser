@@ -1,0 +1,562 @@
+{
+  "foods": [
+    {
+      "name": "Apple",
+      "calories": 52,
+      "active": false,
+      "image":"https://placehold.co/600x400"
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Orange",
+      "calories": 43,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Grapes",
+      "calories": 69,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Watermelon",
+      "calories": 30,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Strawberries",
+      "calories": 32,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Blueberries",
+      "calories": 57,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Spinach",
+      "calories": 23,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Kale",
+      "calories": 49,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Carrots",
+      "calories": 41,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Broccoli",
+      "calories": 55,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Cauliflower",
+      "calories": 25,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Sweet Potato",
+      "calories": 86,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Potato",
+      "calories": 77,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Brown Rice",
+      "calories": 111,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Quinoa",
+      "calories": 120,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Chicken Breast (cooked)",
+      "calories": 165,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Salmon (cooked)",
+      "calories": 206,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Tuna (canned in water)",
+      "calories": 96,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Eggs",
+      "calories": 143,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Greek Yogurt",
+      "calories": 59,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Milk (whole)",
+      "calories": 61,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Cheese (cheddar)",
+      "calories": 403,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Avocado",
+      "calories": 160,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Olive Oil",
+      "calories": 884,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Almonds",
+      "calories": 576,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Walnuts",
+      "calories": 654,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Peanut Butter",
+      "calories": 588,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Bread (whole wheat)",
+      "calories": 247,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pasta (cooked)",
+      "calories": 131,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Oats",
+      "calories": 389,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Honey",
+      "calories": 304,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Maple Syrup",
+      "calories": 260,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Chicken Thigh (cooked)",
+      "calories": 209,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pork Chop (cooked)",
+      "calories": 143,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Beef (ground, cooked)",
+      "calories": 250,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Lentils (cooked)",
+      "calories": 116,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Chickpeas (cooked)",
+      "calories": 164,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Black Beans (cooked)",
+      "calories": 132,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Tofu",
+      "calories": 144,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Hummus",
+      "calories": 166,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Tomato",
+      "calories": 18,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Cucumber",
+      "calories": 16,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Onion",
+      "calories": 40,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Bell Pepper",
+      "calories": 31,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Lettuce",
+      "calories": 5,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Cabbage",
+      "calories": 25,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Zucchini",
+      "calories": 17,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Asparagus",
+      "calories": 20,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Mushrooms",
+      "calories": 22,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Olive",
+      "calories": 115,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Coconut (shredded)",
+      "calories": 354,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pineapple",
+      "calories": 50,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Mango",
+      "calories": 60,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Papaya",
+      "calories": 43,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Kiwi",
+      "calories": 61,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pomegranate",
+      "calories": 83,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Cranberries (dried)",
+      "calories": 325,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Raisins",
+      "calories": 299,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Dates",
+      "calories": 282,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Prunes",
+      "calories": 240,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Apricots (dried)",
+      "calories": 241,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Chocolate (dark, 70-85% cocoa)",
+      "calories": 599,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Ice Cream (vanilla)",
+      "calories": 207,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Potato Chips",
+      "calories": 536,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pretzels",
+      "calories": 386,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Popcorn (air-popped)",
+      "calories": 31,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pizza (cheese)",
+      "calories": 285,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Hamburger",
+      "calories": 250,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Hot Dog",
+      "calories": 150,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "French Fries",
+      "calories": 365,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Soda (cola)",
+      "calories": 42,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Orange Juice",
+      "calories": 45,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Apple Juice",
+      "calories": 46,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Coffee (black)",
+      "calories": 2,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Tea (green)",
+      "calories": 1,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Beer",
+      "calories": 43,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Red Wine",
+      "calories": 85,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "White Wine",
+      "calories": 82,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Margarine",
+      "calories": 717,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Mayonnaise",
+      "calories": 680,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Ketchup",
+      "calories": 101,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Mustard",
+      "calories": 66,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Soy Sauce",
+      "calories": 61,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Ranch Dressing",
+      "calories": 446,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Caesar Dressing",
+      "calories": 425,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Barbecue Sauce",
+      "calories": 195,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Salsa",
+      "calories": 36,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Guacamole",
+      "calories": 160,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Pesto Sauce",
+      "calories": 452,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Miso Soup",
+      "calories": 32,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Clam Chowder",
+      "calories": 90,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "calories": 31,
+      "active": false,
+      "image": "https://placehold.co/600x400"
+    }
+  ]
+}
